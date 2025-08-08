@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/RXXkgwm/header-960w.png](https://i.ibb.co.com/QvXtZ1nk/1-b21-Fyq-Ubow-HYAOQDXH0t-Dw.jpg)" alt="Banner" />
+<img src="https://i.ibb.co.com/QvXtZ1nk/1-b21-Fyq-Ubow-HYAOQDXH0t-Dw.jpg" alt="Banner" />
  # Ariful islam
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
