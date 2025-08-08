@@ -4,7 +4,7 @@
 # Hello! I'm  MD Ariful Islam — Frontend Developer
 
 
-## About Me:
+## About Me
 
 I am a passionate Frontend Developer with experience in React,javascript and Tailwind CSS.  
 I love building responsive and user-friendly web applications.  
@@ -17,6 +17,25 @@ My goal is to create clean and efficient code that improves user experience.
 - I am exploring Next.js and improving my React skills.
 - I’m working on a tourism website using React and Tailwind CSS.
 - Learning about responsive design and accessibility.
+
+
+## 🛠 Skills
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
