@@ -11,6 +11,14 @@ I love building responsive and user-friendly web applications.
 Currently, I am exploring Next.js and enhancing my skills in modern JavaScript frameworks.  
 My goal is to create clean and efficient code that improves user experience.
 
+
+
+## 🔭 Current Activities
+- I am exploring Next.js and improving my React skills.
+- I’m working on a tourism website using React and Tailwind CSS.
+- Learning about responsive design and accessibility.
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
 ## 🌐 Socials:
 
