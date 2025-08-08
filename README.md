@@ -45,10 +45,11 @@ My goal is to create clean and efficient code that improves user experience.
 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
+
 ## 🌐 Socials:
 
-## 🛠 Skills
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
+
 
 
 
