@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co.com/H8d624D/e8c2e43e-d77e-49cf-89e0-c80961c745c4.png" alt="Banner" />
- # Ariful islam
+
+
+# MD Ariful Islam — Frontend Developer
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
 ## 🌐 Socials:
