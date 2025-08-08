@@ -6,7 +6,7 @@
 
 ## About Me:
 
-I am a passionate Frontend Developer with experience in React and Tailwind CSS.  
+I am a passionate Frontend Developer with experience in React,javascript and Tailwind CSS.  
 I love building responsive and user-friendly web applications.  
 Currently, I am exploring Next.js and enhancing my skills in modern JavaScript frameworks.  
 My goal is to create clean and efficient code that improves user experience.
