@@ -3,8 +3,6 @@
 
 # MD Ariful Islam — Frontend Developer
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
-## 🌐 Socials:
 
 ## About Me:
 
@@ -12,6 +10,10 @@ I am a passionate Frontend Developer with experience in React and Tailwind CSS.
 I love building responsive and user-friendly web applications.  
 Currently, I am exploring Next.js and enhancing my skills in modern JavaScript frameworks.  
 My goal is to create clean and efficient code that improves user experience.
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Arifulvhatgaon/) 
+## 🌐 Socials:
+
 
 
 # 💻 Tech Stack:
