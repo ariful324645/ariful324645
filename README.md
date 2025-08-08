@@ -54,6 +54,11 @@ My goal is to create clean and efficient code that improves user experience.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ariful-developer/)  
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 
 
 
